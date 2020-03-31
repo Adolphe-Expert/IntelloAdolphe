@@ -1,0 +1,7 @@
+{
+  "name": "Adolphe-Intello",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
